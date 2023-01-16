@@ -1,0 +1,62 @@
+@media screen and (max-width: 760px){
+    header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    #container-principal {
+        flex-direction: column;
+    }
+
+    h2{
+        font-size: 38px;
+        
+    }
+   
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+    input {
+        align-self: center;
+        max-width: 150px;
+        
+    }
+
+    img {
+        display: none;
+    }
+    
+    ul {
+       
+        margin-top: 30px;
+        margin-bottom: 10px;
+        text-align: center;
+        flex-wrap: wrap;
+        justify-content: space-around;
+     
+    }
+    aside {
+        align-items: center;
+        padding: 0;
+     
+    }
+    #Abr-caonta-btn{
+        text-align: center;
+        align-self: center;
+        margin-top: 50px;
+        
+    }
+    #conta{
+        margin: 5px;
+    }
+
+    li {
+        text-align: center;
+    }
+
+
+   
+   
+}
